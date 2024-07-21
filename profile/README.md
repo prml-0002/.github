@@ -1,5 +1,7 @@
 Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
+Algorithm Design Risk
+
 Project Label: $prml_{2}$
 
 <br>
